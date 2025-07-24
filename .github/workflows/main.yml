@@ -1,0 +1,8 @@
+<button id="openGameBtn">افتح اللعبة</button>
+<script>
+    document.getElementById('openGameBtn').addEventListener('click', () => {
+        window.open('https://username.github.io/repository-name/ahmad-game.html', '_blank');
+    });
+</script>
+</body>
+</html>
